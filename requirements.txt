@@ -1,0 +1,5 @@
+gym==0.21
+gym-retro
+stable-baselines3[extra]
+opencv-python
+matplotlib

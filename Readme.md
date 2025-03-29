@@ -1,1 +1,1 @@
-.
+This repository aims to play Super Mario Bros automatically using DRL
